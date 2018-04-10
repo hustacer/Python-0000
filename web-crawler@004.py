@@ -1,4 +1,5 @@
 #-*- coding:utf-8 -*-
+#获取淘宝网上前100页关于耳机的信息并将其绘制成图表
 import re
 import time
 import requests
