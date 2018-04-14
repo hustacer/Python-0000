@@ -1,5 +1,5 @@
 # -*- coding=utf-8 -*-
-# WeChat Robot
+# WeChat Robot by using tuling robot
 import requests
 import itchat
 import random
